@@ -34,3 +34,13 @@ streamlit run streamlit-translator-english-to-hinglish.py
 - Streamlit
 ## Contact
 If you have any questions or feedback, feel free to reach out to me at <Abhishekgeu03@gmail.com>
+
+## Screenshots
+
+[![Screenshot 1](task 1.png)]([task 1.png](https://github.com/Er-AbhishekRaj07/Translation-Assignment/blob/main/task%201.png))
+- Add a brief description of the screenshot.
+
+[![Screenshot 2](link_to_screenshot_2)](link_to_screenshot_2)
+- Add a brief description of the screenshot.
+
+[...]

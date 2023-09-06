@@ -12,7 +12,7 @@ Hindi: महात्मा गांधी भारत के राष्ट
 
 Hinglish: Mahatma Gandhi bharat ke rashtrapita hae
 
-Built by [Kamal Kant](https://kama1kant.com/)
+Built by [Abhishek Raj](https://github.com/Er-AbhishekRaj07)
 
 ##  How it works
 ### Model
@@ -33,4 +33,4 @@ streamlit run streamlit-translator-english-to-hinglish.py
 - Huggingface Transformers
 - Streamlit
 ## Contact
-If you have any questions or feedback, feel free to reach out to me at <kamalkant.k3@gmail.com>
+If you have any questions or feedback, feel free to reach out to me at <Abhishekgeu03@gmail.com>

@@ -37,10 +37,10 @@ If you have any questions or feedback, feel free to reach out to me at <Abhishek
 
 ## Screenshots
 
-[![Screenshot 1](task 1.png)]([task 1.png](https://github.com/Er-AbhishekRaj07/Translation-Assignment/blob/main/task%201.png))
+[![Screenshot 2](task_1.png)](link_to_screenshot_2)
 - Add a brief description of the screenshot.
 
-[![Screenshot 2](link_to_screenshot_2)](link_to_screenshot_2)
+[![Screenshot 2](task_2.png)](link_to_screenshot_2)
 - Add a brief description of the screenshot.
 
 [...]

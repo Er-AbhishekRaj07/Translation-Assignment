@@ -37,10 +37,9 @@ If you have any questions or feedback, feel free to reach out to me at <Abhishek
 
 ## Screenshots
 
-[![Screenshot 2](task_1.png)](link_to_screenshot_2)
-- Add a brief description of the screenshot.
+[![Screenshot 1](task_1.png)](link_to_screenshot_2)
 
 [![Screenshot 2](task_2.png)](link_to_screenshot_2)
-- Add a brief description of the screenshot.
 
-[...]
+[![Screenshot 3](task_3.png)](link_to_screenshot_2)
+
